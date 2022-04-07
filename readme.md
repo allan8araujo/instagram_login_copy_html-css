@@ -1,4 +1,4 @@
-#CopiaDoInstagram
+CopiaDoInstagram
 
 Basicamente eu estava treinando um pouco do html e css que havia aprendido. Ficou mais ou menos com essa cara aqui:
 
